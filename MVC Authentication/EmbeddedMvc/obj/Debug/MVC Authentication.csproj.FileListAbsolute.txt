@@ -1,0 +1,124 @@
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\IdentityServer\idsrv3test.pfx
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\EmbeddedMvc.dll.config
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\EmbeddedMvc.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\EmbeddedMvc.pdb
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Antlr3.Runtime.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\IdentityModel.Net45.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\IdentityServer3.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Newtonsoft.Json.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Owin.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Net.Http.Extensions.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Net.Http.Primitives.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.Helpers.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.Mvc.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.Optimization.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.Razor.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.Razor.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Core.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.Mvc.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\WebGrease.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Antlr3.Runtime.pdb
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\IdentityModel.Net45.pdb
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\IdentityServer3.pdb
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\IdentityServer3.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Newtonsoft.Json.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Net.Http.Extensions.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Net.Http.Primitives.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.Helpers.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.Mvc.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.Razor.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.Razor.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\System.Web.Optimization.xml
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.pdb
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.Mvc.pdb
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\obj\Debug\MVC Authentication.csproj.App.config
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\obj\Debug\MVC Authentication.csprojResolveAssemblyReference.cache
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\obj\Debug\EmbeddedMvc.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\obj\Debug\EmbeddedMvc.pdb
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Kloud\Git\IDSrv Examples\source\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\IdentityServer\idsrv3test.pfx
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\EmbeddedMvc.dll.config
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\EmbeddedMvc.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\EmbeddedMvc.pdb
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Antlr3.Runtime.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\IdentityModel.Net45.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\IdentityServer3.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Newtonsoft.Json.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Owin.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Net.Http.Extensions.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Net.Http.Primitives.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.Helpers.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.Mvc.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.Optimization.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.Razor.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.Deployment.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.Razor.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Core.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.Mvc.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\WebGrease.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Antlr3.Runtime.pdb
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\IdentityModel.Net45.pdb
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\IdentityServer3.pdb
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\IdentityServer3.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Newtonsoft.Json.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Net.Http.Extensions.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Net.Http.Primitives.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.Helpers.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.Mvc.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.Razor.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.Deployment.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.WebPages.Razor.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\System.Web.Optimization.xml
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Core.pdb
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.pdb
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\bin\Thinktecture.IdentityModel.Owin.ResourceAuthorization.Mvc.pdb
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\obj\Debug\MVC Authentication.csproj.App.config
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\obj\Debug\MVC Authentication.csprojResolveAssemblyReference.cache
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\obj\Debug\EmbeddedMvc.dll
+C:\Kloud\Git\Kloud.MicrosoftAccountEmailIssue\MVC Authentication\EmbeddedMvc\obj\Debug\EmbeddedMvc.pdb
